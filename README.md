@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a senior at St. Lawrence University in Canton, NY.
+
+I am majoring in statistics and psychology, interested in pursuing a graduate degree in clinical psychology. 😄
+
 <!--
 **hquin20/hquin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
