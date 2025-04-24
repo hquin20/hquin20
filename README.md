@@ -2,7 +2,7 @@
 
 I am a graduate of St. Lawrence University in Canton, NY.
 
-I have earned my degree in statistics and psychology, interested in pursuing a graduate degree in clinical psychology. 😄
+I have earned my degree in statistics and psychology, interested furthering my skills in clinical psychology and data visualization. 😄
 
 <!--
 **hquin20/hquin20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
